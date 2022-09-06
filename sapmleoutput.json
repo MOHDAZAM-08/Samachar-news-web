@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Jamie Ross",
+            "title": "The 7 things you need to know for Tuesday, August 30 - The Washington Post",
+            "description": "Catch up in minutes with these 7 stories.",
+            "url": "https://www.washingtonpost.com/the-seven/2022/08/30/what-to-know-for-august-30/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BZKKURIDRVGYRAND4GUDEX6EAQ.png&w=1440",
+            "publishedAt": "2022-08-30T12:39:28Z",
+            "content": "The FBI has already examined documents seized from Mar-a-Lago.\r\n<ul><li>What that means: A filter team sorted through files taken from Donald Trumps Florida home this month to weed out possibly privi… [+2869 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Musk Adds Whistle-Blower as New Reason to Exit Twitter Deal - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=855bd20c-2863-11ed-958d-4c61664c6658&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wOC0zMC9tdXNrLWFkZHMtd2hpc3RsZWJsb3dlci1hcy1uZXctcmVhc29uLXRvLWNhbmNlbC10d2l0dGVyLWRlYWw=",
+            "urlToImage": null,
+            "publishedAt": "2022-08-30T12:15:16Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Marc Santora",
+            "title": "Russia-Ukraine War Updates: Ukraine Steps Up Strikes in Kherson - The New York Times",
+            "description": "Kyiv is seeking to disrupt Russian supply lines and isolate its forces, in what military analysts say could be the start of a broad counteroffensive.",
+            "url": "https://www.nytimes.com/live/2022/08/30/world/ukraine-russia-war-news",
+            "urlToImage": "https://static01.nyt.com/images/2022/08/30/world/30ukraine-briefing-carousel2/merlin_212101977_a17bb029-a43f-4b8c-891a-30e921c7f549-facebookJumbo.jpg",
+            "publishedAt": "2022-08-30T11:58:16Z",
+            "content": "In this photo released by the Iranian Army on Thursday, a drone is launched as part of a military drill in Iran.Credit...Iranian Army, via Associated Press\r\nIran delivered to Russia the first batch o… [+4357 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Donald Judd, CNN",
+            "title": "Biden to speak about 'the continued battle for the soul of the nation' Thursday - CNN",
+            "description": "President Joe Biden will travel to Philadelphia on Thursday for a primetime speech on \"the continued battle for the soul of the nation\" in front of Independence Hall, the White House said Monday.",
+            "url": "https://www.cnn.com/2022/08/29/politics/joe-biden-speech-philadelphia/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220826014140-joe-biden-august-25-2022-02-super-tease.jpeg",
+            "publishedAt": "2022-08-30T11:41:00Z",
+            "content": "(CNN)President Joe Biden will travel to Philadelphia on Thursday for a primetime speech on \"the continued battle for the soul of the nation\" in front of Independence Hall, the White House said Monday… [+2639 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Alexandra Meeks, CNN",
+            "title": "5 things to know for August 30: Flooding, Trump, Ukraine, Oregon Shooting, Fukushima - CNN",
+            "description": "Here's what else you need to know to Get Up to Speed and On with Your Day.",
+            "url": "https://www.cnn.com/2022/08/30/us/five-things-august-30-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220829222414-01-flood-mississippi-0829-super-tease.jpg",
+            "publishedAt": "2022-08-30T11:40:00Z",
+            "content": "(CNN)When it comes to your wireless device, carriers not only know where you are every time you make a phone call or use your data connection, but they may also routinely hold onto your location info… [+6414 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Matthew Futterman",
+            "title": "U.S. Open: Serena Williams Highlights Round 1 With a Win - The New York Times",
+            "description": "Williams kicked off her farewell tour at Flushing Meadows by beating Danka Kovinic of Montenegro, 6-3, 6-3. She will face Anett Kontaveit of Estonia, the No. 2 seed, in the second round.",
+            "url": "https://www.nytimes.com/live/2022/08/29/sports/serena-williams-us-open",
+            "urlToImage": "https://static01.nyt.com/images/2022/08/29/sports/29serena-first-match-win-top/29serena-first-match-win-top-articleLarge.jpg",
+            "publishedAt": "2022-08-30T11:36:00Z",
+            "content": "Serena Williamss Grand Slam singles career will live on for at least another match.On one of her favorite stages, Williams, a 23-time Grand Slam singles champion, beat Danka Kovinic of Montenegro, 6-… [+8089 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Melissa Repko, Lauren Thomas",
+            "title": "Bed Bath & Beyond will unveil its turnaround plan Wednesday. Here are 5 issues investors want addressed - CNBC",
+            "description": "The home goods retailer is under pressure as it struggles with slowing sales and competes for customers amid a tougher economic backdrop.",
+            "url": "https://www.cnbc.com/2022/08/30/bed-bath-beyond-turnaround-plan-5-issues-investors-want-addressed.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106970980-1636051294977-gettyimages-1351328071-ab9i4336_20211104110809676.jpeg?v=1661262027&w=1920&h=1080",
+            "publishedAt": "2022-08-30T11:00:01Z",
+            "content": "A pedestrian walks by a Bed Bath and Beyond store on November 04, 2021 in Larkspur, California.\r\nBed Bath &amp; Beyond is on the clock.\r\nOn Wednesday, the troubled home goods retailer is expected to … [+8087 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Samya Kullab",
+            "title": "Iraqi cleric tells loyalists to leave streets after clashes - The Associated Press - en Español",
+            "description": "BAGHDAD (AP) — An influential Iraqi cleric called on his supporters to withdraw Tuesday from the capital's government quarter, where they have clashed violently with security forces for two days in a serious escalation of the political crisis gripping the nat…",
+            "url": "https://apnews.com/article/middle-east-religion-iran-iraq-baghdad-0ed4c3378b0257091a7b1d70b9e3fb35",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/dc607172f8d747bd89f0c3fb4d9edf42/3000.jpeg",
+            "publishedAt": "2022-08-30T10:42:16Z",
+            "content": "BAGHDAD (AP) An influential Iraqi cleric called on his supporters to withdraw Tuesday from the capitals government quarter, where they have clashed violently with security forces for two days in a se… [+4698 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "AMD teases RDNA3 and reveals price and release date for Ryzen 7000 CPUs - The Verge",
+            "description": "AMD’s new Ryzen 7000 series processors were announced alongside information regarding DDR5 support and the new AM5 sockets, while RDNA3 GPUs were teased ahead of launch later this year.",
+            "url": "https://www.theverge.com/2022/8/30/23328478/amd-rdna-3-gpu-ryzen-7000-cpu-announcement-livestream",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/K14fQ-7IoLAbCbHGPBWka40uNJ8=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11447625/acastro_180529_1777_amd_0001.0.jpg",
+            "publishedAt": "2022-08-30T10:27:14Z",
+            "content": "Announcements included DDR5 support, AM5 sockets and more\r\nTeam Red has been cooking up next-gen processors and graphics cards, set for release later this year.\r\nIllustration by Alex Castro / The Ver… [+5244 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Solomon Islands to ban navy ships from ports until new process in place - Reuters",
+            "description": "The Solomon Islands has suspended entry into its waters for foreign navy ships pending adoption of a new process for approval of port visits, the prime minister's office said on Tuesday, in a bid to better police its exclusive economic zones.",
+            "url": "https://www.reuters.com/world/asia-pacific/solomon-islands-ban-us-navy-ships-ports-us-embassy-2022-08-30/",
+            "urlToImage": "https://www.reuters.com/resizer/m_J-PAqxuw8PUW3eqezni53N8G8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X3AGVHSPCZLKHK5Y36FCHHES4E.jpg",
+            "publishedAt": "2022-08-30T10:09:00Z",
+            "content": "SYDNEY, Aug 30 (Reuters) - The Solomon Islands has suspended entry into its waters for foreign navy ships pending adoption of a new process for approval of port visits, the prime minister's office sa… [+3635 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Hafsa Khalil, CNN",
+            "title": "Dinosaur ribcage unearthed in 'gobsmacking' backyard discovery - CNN",
+            "description": "Home renovations can unearth all sorts of unexpected items, but one Portuguese property owner discovered hidden treasure on another scale when he stumbled upon what could be Europe's largest dinosaur remains.",
+            "url": "https://www.cnn.com/2022/08/30/europe/dinosaur-skeleton-portugal-scn-scli-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220829143227-skeleton-dinosaur-portugal-super-tease.jpg",
+            "publishedAt": "2022-08-30T10:04:00Z",
+            "content": "(CNN)Home renovations can unearth all sorts of unexpected items, but one Portuguese property owner discovered hidden treasure on another scale when he stumbled upon what could be Europe's largest din… [+2772 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Kenneth Chang",
+            "title": "Why NASA Is Going Back to the Moon - The New York Times",
+            "description": "The agency is set to launch a massive rocket on Monday, kicking off a return to Earth’s closest neighbor after many scientists and policymakers had once moved on.",
+            "url": "https://www.nytimes.com/2022/08/28/science/nasa-moon-rocket-launch.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/08/28/science/28nasamoon-return-04/28nasamoon-return-04-facebookJumbo.jpg",
+            "publishedAt": "2022-08-30T08:51:13Z",
+            "content": "As scientists, we understand that the moon is in some sense a Rosetta Stone, said David A. Kring of the Lunar and Planetary Institute near Houston. It is the best place in the solar system to study t… [+1412 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nectar Gan and CNN's Beijing bureau",
+            "title": "China shuts world's largest electronics market as Shenzhen imposes more lockdowns - CNN",
+            "description": "China's southern city of Shenzhen on Monday shut down the world's largest electronics market and suspended public transport nearby as authorities enforced neighborhood-wide lockdowns in response to a small number of Covid cases.",
+            "url": "https://www.cnn.com/2022/08/30/business/china-covid-shenzhen-huaqiangbei-lockdown-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220829214321-china-covid-shenzhen-huaqiangbei-lockdown-intl-hnk-super-tease.jpg",
+            "publishedAt": "2022-08-30T08:41:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "'There's enormous frustration': Trump forces Republicans off-script… again - POLITICO",
+            "description": "Having once decried the search of Mar-a-Lago, defenders of the ex-president are now warning of civil unrest if the investigation leads to prosecution.",
+            "url": "https://www.politico.com/news/2022/08/30/trump-forces-republicans-off-script-again-00054121",
+            "urlToImage": "https://static.politico.com/a2/1b/b5a3e9d64650a9c8d3ba7e75b1f9/https-delivery.gettyimages.com/downloads/1242131945",
+            "publishedAt": "2022-08-30T08:30:00Z",
+            "content": "Some top Republicans acknowledge the growing angst and concern, as its become clearer that Trump may have been warehousing some of Americas most sensitive secrets in an unsecured basement and even re… [+6082 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Remarkable Anti-Aging Drug Delivers Positive Effects on Health and Lifespan With Brief Exposure - SciTechDaily",
+            "description": "Brief exposure to rapamycin has the same anti-aging effects as lifelong treatment. Imagine being able to take a medicine that prevents the decline that comes with age and keeps you healthy. Scientists are searching for drugs that have these effects. The curre…",
+            "url": "https://scitechdaily.com/remarkable-anti-aging-drug-delivers-positive-effects-on-health-and-lifespan-with-brief-exposure/",
+            "urlToImage": "https://scitechdaily.com/images/Rapamycin-Anti-Aging-Drug-scaled.jpg",
+            "publishedAt": "2022-08-30T08:28:18Z",
+            "content": "Rapamycin is currently the most promising anti-aging drug. Credit: Max Planck Institute for Biology of Aging\r\nBrief exposure to rapamycin has the same anti-aging effects as lifelong treatment.\r\nImagi… [+4050 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/steve-dent",
+            "title": "Logitech's upcoming gaming handheld may have been revealed in a leak - Engadget",
+            "description": "We may be getting our first look at Logitech's G Gaming Handheld portable gaming device..",
+            "url": "https://www.engadget.com/this-could-be-our-first-look-at-logitechs-upcoming-g-gaming-handheld-075724014.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-08/862f0e20-2832-11ed-b5fd-ca095b164e94",
+            "publishedAt": "2022-08-30T08:01:24Z",
+            "content": "Earlier this month, Logitech announced that it was working on a handheld gaming device with Tencent that would \"support multiple cloud gaming services\" including NVIDIA's GeForce Now and Xbox Cloud G… [+1282 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Blueface and GF Chrisean Rock Promise No More Physical Fights - TMZ",
+            "description": "Blueface and his girlfriend, Chrisean Rock, are pinky promising to avoid further physical altercations -- after her arrest last week -- but it's not a great sign that they nearly got into a spat right in front of us.",
+            "url": "https://www.tmz.com/2022/08/30/blueface-girlfriend-chrisean-rock-promise-no-physical-fight/",
+            "urlToImage": "https://imagez.tmz.com/image/69/16by9/2022/08/29/69b4804ec80a4091a46655cebb85ba06_xl.jpg",
+            "publishedAt": "2022-08-30T08:00:00Z",
+            "content": "Blueface and his girlfriend, Chrisean Rock, are pinky promising to avoid further physical altercations -- after her arrest last week -- but it's not a great sign that they nearly got into a spat righ… [+1211 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "NFL roster cuts 2022: Jaquiski Tartt headlines released players who should be priorities on the open market - CBS Sports",
+            "description": "These newly released players deserve to be added by another team right away",
+            "url": "https://www.cbssports.com/nfl/news/nfl-roster-cuts-2022-jaquiski-tartt-headlines-released-players-who-should-be-priorities-on-the-open-market/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/08/29/85987537-ad46-4876-86df-9f0b6066b743/thumbnail/1200x675/25eb932a2db013def30706182a00c931/tartt.jpg",
+            "publishedAt": "2022-08-30T06:32:00Z",
+            "content": "The NFL is littered with important contributors who were originally cut, waived, or released by another club, so cutdown day doesn't signal the end of the football playing days for everybody. \r\nRahee… [+3155 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Associated Press",
+            "title": "San Diego State University defends handling of Araiza gang-rape allegation - New York Post ",
+            "description": "San Diego State defended the school administration’s handling of the gang rape allegations.",
+            "url": "https://nypost.com/2022/08/30/sdsu-defends-handling-of-araiza-gang-rape-allegation-inquiry/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/08/newspress-collage-23664371-1661834337554.jpg?quality=75&strip=all&1661820133&w=1024",
+            "publishedAt": "2022-08-30T06:27:00Z",
+            "content": "San Diego State football coach Brady Hoke said Monday he didnt know star punter Matt Araiza had been accused of participating in the gang rape of a 17-year-old girl at an off-campus party in October … [+5648 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Pakistan floods: Disaster to cost more than $10bn, minister says - BBC",
+            "description": "Unprecedented floods have killed more than 1,100 people and washed away roads, crops, homes and bridges.",
+            "url": "https://www.bbc.com/news/business-62719659",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9C17/production/_126495993_gettyimages-1242796794.jpg",
+            "publishedAt": "2022-08-30T05:27:11Z",
+            "content": "By Peter HoskinsBusiness reporter\r\nPakistan's planning minister says early estimates show the devastating floods that hit the country have caused at least $10bn (£8.5bn) of damage.\r\nHis comment comes… [+2979 chars]"
+        }
+    ]
+}
